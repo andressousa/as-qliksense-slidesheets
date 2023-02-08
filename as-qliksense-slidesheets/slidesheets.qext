@@ -1,0 +1,16 @@
+{
+    "name": "AS Slide Sheets",
+    "description": "AS Slide Sheets is a visualization extension for Qlik Sense to turn your app into a slideshow.",
+    "icon": "extension",
+    "type": "visualization",
+    "version": "1.0.0",
+    "author": "André Sousa",
+    "homepage": "https://www.linkedin.com/in/andresantossousa/",
+    "keywords": "qlik-sense, visualization, slideshow",
+    "preview": "preview.png",
+    "license": "The MIT License (MIT)",
+    "repository": "https://github.com/andressousa/as-qliksense-slidesheets",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    }
+}
