@@ -1,5 +1,5 @@
 # AS Slide Sheets
-![GitHub](https://img.shields.io/github/license/andressousa/as-qliksense-slidesheets) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/andressousa/as-qliksense-slidesheets) ![GitHub issues](https://img.shields.io/github/issues/andressousa/as-qliksense-slidesheets)
+![GitHub](https://img.shields.io/github/license/andressousa/as-qliksense-slidesheets) ![GitHub release (latest by date)](https://img.shields.io/github/v/release/andressousa/as-qliksense-slidesheets) ![GitHub issues](https://img.shields.io/github/issues/andressousa/as-qliksense-slidesheets) [![Github All Releases](https://img.shields.io/github/downloads/andressousa/as-qliksense-slidesheets/total.svg)]()
 
 AS Slide Sheets is a visualization extension for Qlik Sense to turn your app into a slideshow.
 
